@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\rphab\\Desktop\\riellyat29\\rielly29\\rielly29\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F4DBCE93-2507-6D90-0FE4-62CA820E220B}|rielly29\\rielly29.csproj|c:\\users\\rphab\\desktop\\riellyat29\\rielly29\\rielly29\\rielly29\\views\\estado\\detalhes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4DBCE93-2507-6D90-0FE4-62CA820E220B}|rielly29\\rielly29.csproj|solutionrelative:rielly29\\views\\estado\\detalhes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4DBCE93-2507-6D90-0FE4-62CA820E220B}|rielly29\\rielly29.csproj|c:\\users\\rphab\\desktop\\riellyat29\\rielly29\\rielly29\\rielly29\\views\\estado\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4DBCE93-2507-6D90-0FE4-62CA820E220B}|rielly29\\rielly29.csproj|solutionrelative:rielly29\\views\\estado\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4DBCE93-2507-6D90-0FE4-62CA820E220B}|rielly29\\rielly29.csproj|c:\\users\\rphab\\desktop\\riellyat29\\rielly29\\rielly29\\rielly29\\controllers\\estadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4DBCE93-2507-6D90-0FE4-62CA820E220B}|rielly29\\rielly29.csproj|solutionrelative:rielly29\\controllers\\estadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4DBCE93-2507-6D90-0FE4-62CA820E220B}|rielly29\\rielly29.csproj|c:\\users\\rphab\\desktop\\riellyat29\\rielly29\\rielly29\\rielly29\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4DBCE93-2507-6D90-0FE4-62CA820E220B}|rielly29\\rielly29.csproj|solutionrelative:rielly29\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F4DBCE93-2507-6D90-0FE4-62CA820E220B}|rielly29\\rielly29.csproj|c:\\users\\rphab\\desktop\\riellyat29\\rielly29\\rielly29\\rielly29\\views\\pais\\detalhes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F4DBCE93-2507-6D90-0FE4-62CA820E220B}|rielly29\\rielly29.csproj|solutionrelative:rielly29\\views\\pais\\detalhes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -13,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F4DBCE93-2507-6D90-0FE4-62CA820E220B}|rielly29\\rielly29.csproj|c:\\users\\rphab\\desktop\\riellyat29\\rielly29\\rielly29\\rielly29\\controllers\\paiscontroller.cscs||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{F4DBCE93-2507-6D90-0FE4-62CA820E220B}|rielly29\\rielly29.csproj|solutionrelative:rielly29\\controllers\\paiscontroller.cscs||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F4DBCE93-2507-6D90-0FE4-62CA820E220B}|rielly29\\rielly29.csproj|c:\\users\\rphab\\desktop\\riellyat29\\rielly29\\rielly29\\rielly29\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4DBCE93-2507-6D90-0FE4-62CA820E220B}|rielly29\\rielly29.csproj|solutionrelative:rielly29\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,6 +44,45 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Detalhes.cshtml",
+              "DocumentMoniker": "C:\\Users\\rphab\\Desktop\\riellyat29\\rielly29\\rielly29\\rielly29\\Views\\Estado\\Detalhes.cshtml",
+              "RelativeDocumentMoniker": "rielly29\\Views\\Estado\\Detalhes.cshtml",
+              "ToolTip": "C:\\Users\\rphab\\Desktop\\riellyat29\\rielly29\\rielly29\\rielly29\\Views\\Estado\\Detalhes.cshtml",
+              "RelativeToolTip": "rielly29\\Views\\Estado\\Detalhes.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-27T23:32:47.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rphab\\Desktop\\riellyat29\\rielly29\\rielly29\\rielly29\\Views\\Estado\\Index.cshtml",
+              "RelativeDocumentMoniker": "rielly29\\Views\\Estado\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rphab\\Desktop\\riellyat29\\rielly29\\rielly29\\rielly29\\Views\\Estado\\Index.cshtml",
+              "RelativeToolTip": "rielly29\\Views\\Estado\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-27T23:31:54.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EstadoController.cs",
+              "DocumentMoniker": "C:\\Users\\rphab\\Desktop\\riellyat29\\rielly29\\rielly29\\rielly29\\Controllers\\EstadoController.cs",
+              "RelativeDocumentMoniker": "rielly29\\Controllers\\EstadoController.cs",
+              "ToolTip": "C:\\Users\\rphab\\Desktop\\riellyat29\\rielly29\\rielly29\\rielly29\\Controllers\\EstadoController.cs",
+              "RelativeToolTip": "rielly29\\Controllers\\EstadoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T23:26:32.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Detalhes.cshtml",
               "DocumentMoniker": "C:\\Users\\rphab\\Desktop\\riellyat29\\rielly29\\rielly29\\rielly29\\Views\\Pais\\Detalhes.cshtml",
               "RelativeDocumentMoniker": "rielly29\\Views\\Pais\\Detalhes.cshtml",
               "ToolTip": "C:\\Users\\rphab\\Desktop\\riellyat29\\rielly29\\rielly29\\rielly29\\Views\\Pais\\Detalhes.cshtml",
@@ -43,7 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\rphab\\Desktop\\riellyat29\\rielly29\\rielly29\\rielly29\\Views\\Pais\\Index.cshtml",
               "RelativeDocumentMoniker": "rielly29\\Views\\Pais\\Index.cshtml",
@@ -51,12 +102,11 @@
               "RelativeToolTip": "rielly29\\Views\\Pais\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-27T23:17:40.07Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-27T23:17:40.07Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "PaisController.cscs",
               "DocumentMoniker": "C:\\Users\\rphab\\Desktop\\riellyat29\\rielly29\\rielly29\\rielly29\\Controllers\\PaisController.cscs",
               "RelativeDocumentMoniker": "rielly29\\Controllers\\PaisController.cscs",
@@ -64,8 +114,7 @@
               "RelativeToolTip": "rielly29\\Controllers\\PaisController.cscs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-04-27T23:03:24.301Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-27T23:03:24.301Z"
             },
             {
               "$type": "Document",
@@ -75,7 +124,7 @@
               "RelativeDocumentMoniker": "rielly29\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\rphab\\Desktop\\riellyat29\\rielly29\\rielly29\\rielly29\\Controllers\\HomeController.cs",
               "RelativeToolTip": "rielly29\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-27T22:51:15.621Z",
               "EditorCaption": ""
