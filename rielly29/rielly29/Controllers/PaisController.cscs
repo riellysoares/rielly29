@@ -1,0 +1,19 @@
+﻿using Microsoft.AspNetCore.Mvc;
+
+namespace rielly29.Controllers 
+{
+    public class PaisController : Controller
+    {
+        // Página Inicial de Países
+        public IActionResult Index()
+        {
+            return View();
+        }
+
+        // Página de Detalhes de Países
+        public IActionResult Detalhes()
+        {
+            return View();
+        }
+    }
+}
